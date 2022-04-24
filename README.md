@@ -38,7 +38,16 @@ OS: win32 x64
 ... platform-browser, platform-browser-dynamic, router
 Ivy Workspace: Yes
 
-3.3. Packages
+3.3. Bootstrap
+https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css
+https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
+https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js
+https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css
+https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
+
+
+
+3.4. Packages
 Package                         Version
 ---------------------------------------------------------
 @angular-devkit/architect       0.1102.11
