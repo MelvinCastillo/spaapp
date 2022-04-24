@@ -50,3 +50,6 @@ Package                         Version
 @schematics/update              0.1102.11
 rxjs                            6.6.7
 typescript                      4.1.5
+
+## Dependency
+This application depend on apirest2 (api restfull) to display and send data to a azure database.
