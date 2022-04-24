@@ -1,6 +1,6 @@
 # Apiusuarios
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.9.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.9. and with it you can get, update, and delete data the entity are students and usuarios1, this app instance a restful api to connect to a azure database
 
 ## Development server
 
