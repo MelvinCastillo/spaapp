@@ -25,3 +25,28 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Technical Details
+
+3. SPA application:
+3.1. Angular CLI: 11.2.11
+Node: 14.18.1
+OS: win32 x64
+
+3.2. Angular: 11.2.12
+... animations, common, compiler, compiler-cli, core, forms
+... platform-browser, platform-browser-dynamic, router
+Ivy Workspace: Yes
+
+3.3. Packages
+Package                         Version
+---------------------------------------------------------
+@angular-devkit/architect       0.1102.11
+@angular-devkit/build-angular   0.1102.11
+@angular-devkit/core            11.2.11
+@angular-devkit/schematics      11.2.11
+@angular/cli                    11.2.11
+@schematics/angular             11.2.11
+@schematics/update              0.1102.11
+rxjs                            6.6.7
+typescript                      4.1.5
