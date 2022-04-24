@@ -30,7 +30,7 @@ export class ApicallService {
   }
 
   //url to connect to the webapi restful 
-  _apiurl: string = 'http://localhost:49154/api/'
+  _apiurl: string = 'http://localhost:49164/api/'
   public _contact!: Array<Users2>;
 
   //method that connect to the webapi to return all users in azure db 
